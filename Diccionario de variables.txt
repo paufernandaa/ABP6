@@ -1,0 +1,11 @@
+# Diccionario de variables
+
+* id_estudiante: identificador único de cada estudiante
+* genero: género del estudiante
+* edad: edad en años
+* consumo_cafeína: cantidad de cafeína consumida
+* horas_sueno: horas de sueño por noche
+* nivel_estres: nivel de estrés percibido
+* energia_dia: nivel de energía durante el día
+* nivel_cafeina: categoría de consumo de cafeína
+* horas_estudio: horas de estudio diarias

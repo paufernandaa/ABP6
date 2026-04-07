@@ -1,22 +1,32 @@
-# Análisis de cafeína y nivel de energía
+# 📊 Análisis de cafeína y nivel de energía
 
-Este proyecto analiza si existe relación entre el consumo de cafeína y el nivel de energía en estudiantes.
+## Descripción
+Este proyecto analiza la relación entre el consumo de cafeína y el nivel de energía en estudiantes, utilizando herramientas básicas de análisis de datos.
 
 ## Objetivo
+Evaluar si existe una relación entre la cafeína y el nivel de energía a partir de datos simulados.
 
-Evaluar si la cafeína influye en el nivel de energía utilizando herramientas básicas de análisis de datos.
+## Desafío
+El principal desafío fue analizar datos y extraer conclusiones claras a partir de información que no mostraba una relación evidente.
 
-## Contenido del repositorio
+## Metodología
+Se trabajó con un dataset simulado, aplicando análisis estadístico básico para interpretar los resultados.
 
-* dataset.csv: datos simulados utilizados en el análisis
-* analisis.pdf: informe con desarrollo y resultados
-* presentacion.pptx: resumen del proyecto
+## Herramientas
+- Python  
+- Pandas  
+- Jupyter Notebook  
 
 ## Resultados
+No se encontró una relación significativa entre el consumo de cafeína y el nivel de energía.
 
-No se encontró una relación clara entre el consumo de cafeína y el nivel de energía.
-El análisis estadístico mostró que el promedio de energía no es significativamente distinto de 5.
+## Aprendizajes
+- Análisis de datos  
+- Interpretación de resultados  
+- Uso de herramientas como Python y Pandas  
+
+## Conclusión
+El análisis permitió comprender cómo trabajar con datos y extraer conclusiones incluso cuando no hay resultados evidentes.
 
 ## Nota
-
-Este proyecto fue realizado con fines académicos aplicando conceptos básicos de estadística.
+Proyecto académico desarrollado como parte de formación en análisis de datos.
